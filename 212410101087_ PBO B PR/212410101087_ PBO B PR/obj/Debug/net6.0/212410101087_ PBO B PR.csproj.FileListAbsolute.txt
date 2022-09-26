@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\212410101087_ PBO B PR\212410101087_ PBO B PR\obj\Debug\net6.0\212410101087_ PBO B PR.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\212410101087_ PBO B PR\212410101087_ PBO B PR\obj\Debug\net6.0\212410101087_ PBO B PR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\212410101087_ PBO B PR\212410101087_ PBO B PR\obj\Debug\net6.0\212410101087_ PBO B PR.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\212410101087_ PBO B PR\212410101087_ PBO B PR\obj\Debug\net6.0\212410101087_ PBO B PR.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\212410101087_ PBO B PR\212410101087_ PBO B PR\obj\Debug\net6.0\212410101087_ PBO B PR.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\212410101087_ PBO B PR\212410101087_ PBO B PR\bin\Debug\net6.0\212410101087_ PBO B PR.exe
+C:\Users\ASUS\source\repos\212410101087_ PBO B PR\212410101087_ PBO B PR\bin\Debug\net6.0\212410101087_ PBO B PR.deps.json
+C:\Users\ASUS\source\repos\212410101087_ PBO B PR\212410101087_ PBO B PR\bin\Debug\net6.0\212410101087_ PBO B PR.runtimeconfig.json
+C:\Users\ASUS\source\repos\212410101087_ PBO B PR\212410101087_ PBO B PR\bin\Debug\net6.0\212410101087_ PBO B PR.dll
+C:\Users\ASUS\source\repos\212410101087_ PBO B PR\212410101087_ PBO B PR\bin\Debug\net6.0\212410101087_ PBO B PR.pdb
+C:\Users\ASUS\source\repos\212410101087_ PBO B PR\212410101087_ PBO B PR\obj\Debug\net6.0\212410101087_ PBO B PR.dll
+C:\Users\ASUS\source\repos\212410101087_ PBO B PR\212410101087_ PBO B PR\obj\Debug\net6.0\refint\212410101087_ PBO B PR.dll
+C:\Users\ASUS\source\repos\212410101087_ PBO B PR\212410101087_ PBO B PR\obj\Debug\net6.0\212410101087_ PBO B PR.pdb
+C:\Users\ASUS\source\repos\212410101087_ PBO B PR\212410101087_ PBO B PR\obj\Debug\net6.0\212410101087_ PBO B PR.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\212410101087_ PBO B PR\212410101087_ PBO B PR\obj\Debug\net6.0\ref\212410101087_ PBO B PR.dll
